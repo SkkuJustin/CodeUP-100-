@@ -2,4 +2,7 @@
 
 a,b = map(int,input().split())
 
-print(((bool(a)) and (bool(b))) or ((bool(not a)) and (bool(not b))))
+c = bool(a)
+d = bool(b)
+
+print(c==d)
