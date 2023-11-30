@@ -6,4 +6,4 @@ while n!=0 :
     if n!=0 :
         print(n)
     else :
-        break
+        break # break 을 하던 안 하던 종료되긴 함
