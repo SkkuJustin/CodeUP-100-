@@ -2,4 +2,4 @@
 
 s = input()
 
-print(s, s, s)
+print(s, s, s) # 공백을 두고 3번 출력
