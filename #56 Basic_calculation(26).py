@@ -1,5 +1,5 @@
 #참 / 거짓이 서로 다를 때에만 참을 출력하기
-# 
+
 a,b = map(int,input().split())
 
 print((bool(a) and bool(not b)) or (bool(not a) and bool(b)))
